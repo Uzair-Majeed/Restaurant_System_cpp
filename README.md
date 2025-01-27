@@ -82,6 +82,10 @@ The main menu provides access to five user modules: Admin, Manager, Customer, Em
 2. You can signin or login, based on your MODULE TYPE , You will be redirected to respective module page.
 
 ---
+## Collaborators
+Me and Rizwan Saeed
+
+---
 
 ## Important Notes:
 
